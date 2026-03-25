@@ -4,4 +4,4 @@ Projeto de redes
 
 ## Imagem
 
-![Foto do lighthouse](./aula3/lighthouse.png)
+![Foto do lighthouse](./aula4/lighthouse.png)
